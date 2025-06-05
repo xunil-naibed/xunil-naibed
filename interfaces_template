@@ -11,5 +11,5 @@ iface lo inet loopback
 allow-hotplug wlo1
 iface wlo1 inet dhcp
 
-#	wpa-ssid Toddlink
-#	wpa-psk  linuxroot
+	wpa-ssid Wi-Fi
+	wpa-psk  P@ss143B
