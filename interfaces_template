@@ -12,4 +12,4 @@ allow-hotplug wlo1
 iface wlo1 inet dhcp
 
 	wpa-ssid Wi-Fi
-	wpa-psk  P@ss143B
+	wpa-psk  Password
